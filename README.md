@@ -1,0 +1,2 @@
+# EduConecta
+AngamarcaEA_SaenzJG-EduConecta-SistemasDistribuidos
